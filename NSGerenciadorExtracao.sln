@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSGerenciadorExtracao", "NS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSGerenciadorExtracao.Tests", "NSGerenciadorExtracao.Tests\NSGerenciadorExtracao.Tests.csproj", "{3E365B7E-1147-4ED7-AB5E-84FF9A160085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSGerenciadorExtracao.Servico", "NSGerenciadorExtracao.Servico\NSGerenciadorExtracao.Servico.csproj", "{5B8C7F5A-0864-44F6-B2F6-EAE1463915F9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSGerenciadorExtracao.Processador", "NSGerenciadorExtracao.Processador\NSGerenciadorExtracao.Processador.csproj", "{782D1C7F-01C4-40FD-B7E0-1042BDA1E4B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSGerenciadorExtracao.Configuracao", "NSGerenciadorExtracao.Configuracao\NSGerenciadorExtracao.Configuracao.csproj", "{4CDFF183-D5AF-4677-8953-103C450A0C9B}"
@@ -27,10 +25,6 @@ Global
 		{3E365B7E-1147-4ED7-AB5E-84FF9A160085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E365B7E-1147-4ED7-AB5E-84FF9A160085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E365B7E-1147-4ED7-AB5E-84FF9A160085}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B8C7F5A-0864-44F6-B2F6-EAE1463915F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B8C7F5A-0864-44F6-B2F6-EAE1463915F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B8C7F5A-0864-44F6-B2F6-EAE1463915F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B8C7F5A-0864-44F6-B2F6-EAE1463915F9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{782D1C7F-01C4-40FD-B7E0-1042BDA1E4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{782D1C7F-01C4-40FD-B7E0-1042BDA1E4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{782D1C7F-01C4-40FD-B7E0-1042BDA1E4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
